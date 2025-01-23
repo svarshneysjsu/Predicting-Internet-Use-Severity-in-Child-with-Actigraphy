@@ -71,7 +71,7 @@ This project was developed as part of the Data 255 course at San Jose State Univ
 
 ## Acknowledgments
 
-- Kaggle for hosting the competition.![Kaggle Competition Link](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/overview)
+- Kaggle for hosting the competition.[Kaggle Competition Link](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/overview)
 - The Child Mind Institute for providing the dataset and research inspiration.
 
 
